@@ -1,55 +1,6 @@
 import java.util.Scanner;
 
 public class Main {
-
-    /*public static double add (String[] rechnung) {
-        int i = 0;
-        double Sum = 0;
-        while (i < rechnung.length) {
-            double wert = Double.parseDouble(rechnung[i]);
-            Sum = Sum + wert;
-            i++;
-            System.out.println("Ergebnis der Berechnung: " + Sum);
-        }
-        return Sum;
-    }
-
-    public static double sub (String[] rechnung) {
-        int i = 0;
-        double Sum = 0;
-        while (i < rechnung.length) {
-            double wert = Double.parseDouble(rechnung[i]);
-            Sum = Sum - wert;
-            i++;
-            System.out.println("Ergebnis der Berechnung: " + Sum);
-        }
-        return Sum;
-    }
-
-    public static double mul (String[] rechnung) {
-        int i = 0;
-        double Sum = 0;
-        while (i < rechnung.length) {
-            double wert = Double.parseDouble(rechnung[i]);
-            Sum = Sum * wert;
-            i++;
-            System.out.println("Ergebnis der Berechnung: " + Sum);
-        }
-        return Sum;
-    }
-
-    public static double div (String[] rechnung) {
-        int i = 0;
-        double Sum = 0;
-        while (i < rechnung.length) {
-            double wert = Double.parseDouble(rechnung[i]);
-            Sum = Sum / wert;
-            i++;
-            System.out.println("Ergebnis der Berechnung: " + Sum);
-        }
-        return Sum;
-    }*/
-
     public static void main(String[] args) {
         String op;
         String a = String.valueOf('1');
